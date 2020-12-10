@@ -51,3 +51,7 @@ for (Map.Entry<String, Integer> pair: items.entrySet()) {
     System.out.format("key: %s, value: %d%n", pair.getKey(), pair.getValue());
 }
 ```
+
+
+#List,Integer[],int[]转换#
+[https://www.cnblogs.com/cat520/p/10299879.html](https://www.cnblogs.com/cat520/p/10299879.html)
